@@ -1,8 +1,8 @@
 # tieba_spider
 
-[![License](https://img.shields.io/github/license/KeikoAyano/EmojisRepo?color=40E6FF)](https://raw.githubusercontent.com/mirbyte/IconPull/main/LICENSE)
-![Size](https://img.shields.io/github/repo-size/KeikoAyano/EmojisRepo/?label=size&color=40E6FF)
-[![Download Count](https://img.shields.io/github/downloads/KeikoAyano/EmojisRepo/total?color=40E6FF)](https://github.com/mirbyte/IconPull/releases/latest)
+[![License](https://img.shields.io/github/license/KeikoAyano/tieba_crawlers?color=40E6FF)](https://raw.githubusercontent.com/mirbyte/IconPull/main/LICENSE)
+![Size](https://img.shields.io/github/repo-size/KeikoAyano/tieba_crawlers/?label=size&color=40E6FF)
+[![Download Count](https://img.shields.io/github/downloads/KeikoAyano/tieba_crawlers/total?color=40E6FF)](https://github.com/mirbyte/IconPull/releases/latest)
 
 百度贴吧爬虫——获取页面信息<br>
 ![Display Picture](./res/tieba-wordcloud.png)<br>
